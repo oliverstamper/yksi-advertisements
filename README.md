@@ -13,7 +13,7 @@ A bootcamp project that tests the creators ability to utilise semantic html and 
 10. Acknowledgements
 ## About The Project
 Viewing the project on standard browser settings, intentionally, revealed very few changes aside from those to the title to make the project unique to the student. This is shown in the html changes below.
-![Screenshot](Picture1.png)
+assets/images/Picture1.png
 ![Screenshot](Picture2.png)
 
 Real changes could be seen in the projects HTML document, with non-semantic language such as div being replaced with semantic language such as header, section, article and SIDE. This is illustrated above with the chane from div to header.
