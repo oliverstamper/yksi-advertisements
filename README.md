@@ -6,14 +6,20 @@ A bootcamp project that tests the creators ability to utilise semantic html and 
 3. Getting started
 4. Prerequisites
 5. Installation 
-6. Usage
-7. Roadmap
-8. Contributing
-9. Licence
-10. Author
-11. Acknowledgements
+6. Roadmap
+7. Contributing
+8. Licence
+9. Author
+10. Acknowledgements
 ## About The Project
-Viewing the project on standard browser settings, intentionally, revealed very few changes aside from those to the title to make the project unique to the student. Real changes could be seen in the projects HTML document, with non-semantic language such as div being replaced with semantic language such as section, article and SIDE. Furthermore, alt img descriptions were added to each picture, which, though largely decorative or unimportant compared with the information provided on the intial page,
+Viewing the project on standard browser settings, intentionally, revealed very few changes aside from those to the title to make the project unique to the student. This is shown in the html changes below.
+![image](https://github.com/oliverstamper/yksi-advertisements/assets/148012712/e670bda5-7109-4132-9eaf-a0879842ba55)
+![image](https://github.com/oliverstamper/yksi-advertisements/assets/148012712/7e866565-5907-4dfb-a1ca-b1076aa83bc1)
+
+Real changes could be seen in the projects HTML document, with non-semantic language such as div being replaced with semantic language such as header, section, article and SIDE. This is illustrated above with the chane from div to header.
+Furthermore, alt img descriptions were added to each picture, which, though largely decorative or unimportant compared with the information provided on the intial page.
+![image](https://github.com/oliverstamper/yksi-advertisements/assets/148012712/271c2a12-4a82-420f-8c35-b7998878b757)
+
 ## Built With
 Visual Studio Code
 Git Bash
@@ -29,19 +35,26 @@ Visual Studio Code and Git Bash.
 Account on Git Hub and Git Lab.
 Pair the above to local device using SSH Key.
 ## Installation
-Enter SSH key.
-
-## Usage
+### Installation of file.
+Go to File.
+Raw.
+Save as.
+### Installation of repository.
+Code.
+Download zip.
 ## Roadmap
 Added alt img to starter HTML.
 Changed language from div to more semantic where possible.
 Uploaded to Git Hub, edited this read me document.
 
 ## Contributing
-Contributing.md
+[Contributing.md](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
 
 ## License
 Distributed under the MIT License. See LICENSE.txt for more information.
-## Contact
+## Author
 Oliver Stamper ostamper@outlook.com
-https://github.com/oliverstamper/yksi-advertisements
+<https://github.com/oliverstamper/yksi-advertisements>
+## Acknowledgements
+semrush blog <https://www.semrush.com/blog/semantic-html5-guide/>
+w3 schools <https://www.w3schools.com/html/html5_semantic_elements.asp>
