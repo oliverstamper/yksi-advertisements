@@ -17,7 +17,7 @@ Viewing the project on standard browser settings, intentionally, revealed very f
 
 Real changes could be seen in the projects HTML document, with non-semantic language such as div being replaced with semantic language such as header, section, article and SIDE. This is illustrated above with the chane from div to header.
 Furthermore, alt img descriptions were added to each picture, which, though largely decorative or unimportant compared with the information provided on the intial page.
-![image]
+![image](https://github.com/oliverstamper/yksi-advertisements/blob/a2816404a81e68944c84363364913ce5911af1dc/assets/images/Screenshot%202024-01-12%20124601.png)
 ## Built With
 Visual Studio Code
 Git Bash
